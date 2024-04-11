@@ -37,24 +37,3 @@
 * Summary:
 
 
-
-
-
-
-
-
-
-
-## Results
-
-Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
-
-* Machine Learning Model 1:
-    * Description of Model 1 Accuracy (99%), Precision (100% for healthy loans, 87% for high risk loans), and Recall scores (100% for healthy loans, 89% for high risk loans).
-
-## Summary
-
-* The model tested would is a good choice due to the high level of accuracy and recall predicting which loans will be healthy and which are at risk.  The accuracy and recall is slightly lower for predicting high-risk loans, but accuracy and recall above 70-80% is considered desirable and this  model surpasses that.  
-* Which prediction is more important (predicting healthy vs high risk) depends on the reason for the analysis.  If the purpose of the analysis is to find customers for a solicitation effort, it's more important to predict what will be a healthy loan.  If the purpose of the analysis is to find customers for a pre-default outreach, it would be more important to accurately predict high-risk loans.
-This model accounts for each.  
-
